@@ -7,6 +7,7 @@ Unified Feature and Instance Based Domain Adaptation for Aspect-Based Sentiment 
 
 ### Context-aware classification
 Context-Guided BERT for Targeted Aspect-Based Sentiment Analysis (https://arxiv.org/pdf/2010.07523.pdf)
+- (code) https://github.com/frankaging/Quasi-Attention-ABSA
 - Context-Aware Self-Attention Networks (https://arxiv.org/pdf/1902.05766.pdf)
 - Compositional De-Attention Networks (https://papers.nips.cc/paper/2019/file/16fc18d787294ad5171100e33d05d4e2-Paper.pdf)
 
