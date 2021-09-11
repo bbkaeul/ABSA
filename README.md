@@ -14,7 +14,7 @@ Context-Guided BERT for Targeted Aspect-Based Sentiment Analysis [paper](https:/
 
 Exploiting BERT for End-to-End Aspect-based Sentiment Analysis @EMNLP 2019 [paper](https://arxiv.org/pdf/1910.00883.pdf) [code](https://github.com/lixin4ever/BERT-E2E-ABSA)
 
-A Unified Generative Framework for Aspect-Based Sentiment Analysis [paper](https://arxiv.org/pdf/2106.04300.pdf) [code](https://github.com/yhcc/BARTABSA)
+A Unified Generative Framework for Aspect-Based Sentiment Analysis  @ACL 2021[paper](https://arxiv.org/pdf/2106.04300.pdf) [code](https://github.com/yhcc/BARTABSA)
 
 
 ### Opinion extraction
