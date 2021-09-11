@@ -1,5 +1,12 @@
 # ABSA (Aspect-Based Sentiment Analysis) Paper list
 
+### Must Reference
+Attention-based LSTM for Aspect-level Sentiment Classification [paper]
+
+Reference [code](https://github.com/songyouwei/ABSA-PyTorch)
+
+
+
 ### Domain Adaptation (Transfer learning, SNE)
 
 Unified Feature and Instance Based Domain Adaptation for Aspect-Based Sentiment Analysis [paper](https://aclanthology.org/2020.emnlp-main.572.pdf)
