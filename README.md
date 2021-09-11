@@ -6,12 +6,15 @@ Unified Feature and Instance Based Domain Adaptation for Aspect-Based Sentiment 
 - Feature-based methods learn a domain-invariant representation with autiliary tasks or domain adversarial learning
 - Instance-based methods is to re-weight source instances in order to assign higher weights to instances similar to the target domain and lower weights to instances different from the target domain
 
+
 ### Context-aware classification
 Context-Guided BERT for Targeted Aspect-Based Sentiment Analysis [paper](https://arxiv.org/pdf/2010.07523.pdf) [code](https://github.com/frankaging/Quasi-Attention-ABSA)
 - Context-Aware Self-Attention Networks [paper](https://arxiv.org/pdf/1902.05766.pdf)
 - Compositional De-Attention Networks [paper](https://papers.nips.cc/paper/2019/file/16fc18d787294ad5171100e33d05d4e2-Paper.pdf)
 
 Exploiting BERT for End-to-End Aspect-based Sentiment Analysis @EMNLP 2019 [paper](https://arxiv.org/pdf/1910.00883.pdf) [code](https://github.com/lixin4ever/BERT-E2E-ABSA)
+
+A Unified Generative Framework for Aspect-Based Sentiment Analysis [paper](https://arxiv.org/pdf/2106.04300.pdf) [code](https://github.com/yhcc/BARTABSA)
 
 
 ### Opinion extraction
