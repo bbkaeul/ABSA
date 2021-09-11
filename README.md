@@ -10,9 +10,10 @@ Unified Feature and Instance Based Domain Adaptation for Aspect-Based Sentiment 
 Context-Guided BERT for Targeted Aspect-Based Sentiment Analysis [paper](https://arxiv.org/pdf/2010.07523.pdf) [code](https://github.com/frankaging/Quasi-Attention-ABSA)
 - Context-Aware Self-Attention Networks [paper](https://arxiv.org/pdf/1902.05766.pdf)
 - Compositional De-Attention Networks [paper](https://papers.nips.cc/paper/2019/file/16fc18d787294ad5171100e33d05d4e2-Paper.pdf)
+Exploiting BERT for End-to-End Aspect-based Sentiment Analysis @EMNLP 2019 [paper](https://arxiv.org/pdf/1910.00883.pdf) [code](https://github.com/lixin4ever/BERT-E2E-ABSA)
 
 
 ### Opinion extraction
-Open-Domain Targeted Sentiment Analysis via Span-Based Extraction and Classification ACL 2019
+Open-Domain Targeted Sentiment Analysis via Span-Based Extraction and Classification @ACL 2019
 [paper](https://aclanthology.org/P19-1051.pdf) [code](https://github.com/huminghao16/SpanABSA)
 
