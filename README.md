@@ -5,6 +5,8 @@ Attention-based LSTM for Aspect-level Sentiment Classification [paper]
 
 Reference [code](https://github.com/songyouwei/ABSA-PyTorch)
 
+### Survey
+Aspect and Entity Extraction for Opinion Mining [paper] (https://www.cs.uic.edu/~lzhang3/paper/ZhangLiu-AEEE.pdf)
 
 
 ### Domain Adaptation (Transfer learning, SNE)
@@ -21,10 +23,14 @@ Context-Guided BERT for Targeted Aspect-Based Sentiment Analysis [paper](https:/
 
 Exploiting BERT for End-to-End Aspect-based Sentiment Analysis @EMNLP 2019 [paper](https://arxiv.org/pdf/1910.00883.pdf) [code](https://github.com/lixin4ever/BERT-E2E-ABSA)
 
-A Unified Generative Framework for Aspect-Based Sentiment Analysis  @ACL 2021[paper](https://arxiv.org/pdf/2106.04300.pdf) [code](https://github.com/yhcc/BARTABSA)
+A Unified Generative Framework for Aspect-Based Sentiment Analysis  @ACL 2021 [paper](https://arxiv.org/pdf/2106.04300.pdf) [code](https://github.com/yhcc/BARTABSA)
 
 
 ### Opinion extraction
-Open-Domain Targeted Sentiment Analysis via Span-Based Extraction and Classification @ACL 2019
-[paper](https://aclanthology.org/P19-1051.pdf) [code](https://github.com/huminghao16/SpanABSA)
+Open-Domain Targeted Sentiment Analysis via Span-Based Extraction and Classification @ACL 2019 [paper](https://aclanthology.org/P19-1051.pdf) [code](https://github.com/huminghao16/SpanABSA)
 
+### Aspect Sentiment Triplet Extraction (ASTE)
+Bidirectional Machine Reading Comprehension for Aspect Sentiment Triplet Extraction @AAAI 2021 [paper](file:///C:/Users/jasmi/Downloads/17500-Article%20Text-20994-1-2-20210518.pdf) [code](https://github.com/NKU-IIPLab/BMRC)
+
+###  Pair-wise Aspect and Opinion Terms Extraction (PAOTE)
+SpanMlt: A Span-based Multi-Task Learning Framework for Pair-wise Aspect and Opinion Terms Extraction [paper](https://aclanthology.org/2020.acl-main.296.pdf)
