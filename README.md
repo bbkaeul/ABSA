@@ -1,16 +1,15 @@
 # Datasets
 
 - **[SemEval 2014]** SemEval-2014 Task 4: Aspect Based Sentiment Analysis [data](https://github.com/jiangqn/aspect_extraction/tree/master/data/official_data/SemEval-2014)
-
+- **[SemEval-2016 Task 5]** SemEval-2016 Task 5: Aspect Based Sentiment Analysis [data](https://alt.qcri.org/semeval2016/task5/index.php?id=data-and-tools)
 - **[Adversarial Test Set for SemEval-14]** Tasty Burgers, Soggy Fries: Probing Aspect Robustness in Aspect-Based Sentiment Analysis @EMNLP 2020 [data](https://github.com/zhijing-jin/ARTS_TestSet)
-
 - **[MAMS]** A Challenge Dataset and Effective Models for Aspect-Based Sentiment Analysis @EMNLP 2019 [paper](https://aclanthology.org/D19-1654.pdf) [data](https://github.com/siat-nlp/MAMS-for-ABSA)
-
 - **[Twitter]** Adaptive Recursive Neural Network for Target-dependent Twitter Sentiment Classification @ACL 2014 [paper](https://aclanthology.org/P14-2009.pdf) [data](https://github.com/songyouwei/ABSA-PyTorch/tree/master/datasets/acl-14-short-data)
-
 - **[SentiHood]** Sentihood: Targeted aspect based sentiment analysis dataset for urban neighbourhoods @COLING 2016 [paper](https://aclanthology.org/C16-1146/) [data](https://github.com/uclnlp/jack/tree/master/data/sentihood)
+- **[TOWE]** Target-oriented Opinion Words Extraction with Target-fused Neural Sequence Labeling @NAACL 2019 [data](https://github.com/NJUNLP/TOWE)
+- **[Amazon reviews]** The data span a period of 18 years, including ~35 million reviews up to March 2013. Reviews include product and user information, ratings, and a plaintext review [data](https://snap.stanford.edu/data/web-Amazon.html)
+- **[Amazon product data]** This dataset contains product reviews and metadata from Amazon, including 142.8 million reviews spanning May 1996 - July 2014. This dataset includes reviews (ratings, text, helpfulness votes), product metadata (descriptions, category information, price, brand, and image features), and links (also viewed/also bought graphs). [data](http://jmcauley.ucsd.edu/data/amazon/)
 
-- **[TOWE]** Target-oriented Opinion Words Extraction with Target-fused Neural Sequence Labeling @NAACL 2019 [code](https://github.com/NJUNLP/TOWE)
 
 
 
