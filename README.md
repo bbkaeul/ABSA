@@ -1,11 +1,27 @@
-# ABSA (Aspect-Based Sentiment Analysis) Paper list
+# Datasets
 
+- **[SemEval 2014]** SemEval-2014 Task 4: Aspect Based Sentiment Analysis [data](https://github.com/jiangqn/aspect_extraction/tree/master/data/official_data/SemEval-2014)
+
+- **[Adversarial Test Set for SemEval-14]** Tasty Burgers, Soggy Fries: Probing Aspect Robustness in Aspect-Based Sentiment Analysis @EMNLP 2020 [data](https://github.com/zhijing-jin/ARTS_TestSet)
+
+- **[MAMS]** A Challenge Dataset and Effective Models for Aspect-Based Sentiment Analysis @EMNLP 2019 [paper](https://aclanthology.org/D19-1654.pdf) [data](https://github.com/siat-nlp/MAMS-for-ABSA)
+
+- **[Twitter]** Adaptive Recursive Neural Network for Target-dependent Twitter Sentiment Classification @ACL 2014 [paper](https://aclanthology.org/P14-2009.pdf) [data](https://github.com/songyouwei/ABSA-PyTorch/tree/master/datasets/acl-14-short-data)
+
+- **[SentiHood]** Sentihood: Targeted aspect based sentiment analysis dataset for urban neighbourhoods @COLING 2016 [paper](https://aclanthology.org/C16-1146/) [data](https://github.com/uclnlp/jack/tree/master/data/sentihood)
+
+- **[TOWE]** Target-oriented Opinion Words Extraction with Target-fused Neural Sequence Labeling @NAACL 2019 [code](https://github.com/NJUNLP/TOWE)
+
+
+
+# ABSA (Aspect-Based Sentiment Analysis) Paper list
 ### Must Reference
-Attention-based LSTM for Aspect-level Sentiment Classification [paper]
+Attention-based LSTM for Aspect-level Sentiment Classification [paper](https://ieeexplore.ieee.org/abstract/document/8976252)
 
 Reference [code](https://github.com/songyouwei/ABSA-PyTorch)
 
 ### Survey
+Issues and Challenges of Aspect-based Sentiment Analysis: A ComprehensiveSurvey [paper](https://ieeexplore.ieee.org/abstract/document/8976252)
 Aspect and Entity Extraction for Opinion Mining [paper](https://www.cs.uic.edu/~lzhang3/paper/ZhangLiu-AEEE.pdf)
 
 
