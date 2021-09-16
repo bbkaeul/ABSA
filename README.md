@@ -1,5 +1,4 @@
 # Datasets
-
 - **[SemEval 2014]** SemEval-2014 Task 4: Aspect Based Sentiment Analysis [data](https://github.com/jiangqn/aspect_extraction/tree/master/data/official_data/SemEval-2014)
 - **[SemEval-2016 Task 5]** SemEval-2016 Task 5: Aspect Based Sentiment Analysis [data](https://alt.qcri.org/semeval2016/task5/index.php?id=data-and-tools)
 - **[Adversarial Test Set for SemEval-14]** Tasty Burgers, Soggy Fries: Probing Aspect Robustness in Aspect-Based Sentiment Analysis @EMNLP 2020 [data](https://github.com/zhijing-jin/ARTS_TestSet)
@@ -10,6 +9,19 @@
 - **[Amazon reviews]** The data span a period of 18 years, including ~35 million reviews up to March 2013. Reviews include product and user information, ratings, and a plaintext review [data](https://snap.stanford.edu/data/web-Amazon.html)
 - **[Amazon product data]** This dataset contains product reviews and metadata from Amazon, including 142.8 million reviews spanning May 1996 - July 2014. This dataset includes reviews (ratings, text, helpfulness votes), product metadata (descriptions, category information, price, brand, and image features), and links (also viewed/also bought graphs). [data](http://jmcauley.ucsd.edu/data/amazon/)
 
+# 
+https://github.com/songyouwei/ABSA-PyTorch
+https://aclanthology.org/2020.acl-main.339.pdf
+https://arxiv.org/pdf/1911.01616v2.pdf
+https://aclanthology.org/2020.acl-main.293.pdf
+https://aclanthology.org/P19-1056.pdf
+https://aclanthology.org/D19-1467.pdf
+https://aclanthology.org/D19-1342.pdf
+https://arxiv.org/pdf/1909.00324.pdf
+https://aclanthology.org/R15-1036.pdf
+https://www.atlantis-press.com/journals/ijcis/125941251/view
+
+https://github.com/prrao87/fine-grained-sentiment
 
 
 
