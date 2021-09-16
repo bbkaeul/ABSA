@@ -6,7 +6,7 @@ Attention-based LSTM for Aspect-level Sentiment Classification [paper]
 Reference [code](https://github.com/songyouwei/ABSA-PyTorch)
 
 ### Survey
-Aspect and Entity Extraction for Opinion Mining [paper] (https://www.cs.uic.edu/~lzhang3/paper/ZhangLiu-AEEE.pdf)
+Aspect and Entity Extraction for Opinion Mining [paper](https://www.cs.uic.edu/~lzhang3/paper/ZhangLiu-AEEE.pdf)
 
 
 ### Domain Adaptation (Transfer learning, SNE)
