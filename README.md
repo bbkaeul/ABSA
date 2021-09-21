@@ -65,6 +65,9 @@ Exploiting BERT for End-to-End Aspect-based Sentiment Analysis @EMNLP 2019 [pape
 
 A Unified Generative Framework for Aspect-Based Sentiment Analysis  @ACL 2021 [paper](https://arxiv.org/pdf/2106.04300.pdf) [code](https://github.com/yhcc/BARTABSA)
 
+### Syntax
+Does syntax matter? A strong baseline for Aspect-based Sentiment Analysis with RoBERTa @NAACL 2021 [paper](https://arxiv.org/abs/2104.04986) [code](https://github.com/ROGERDJQ/RoBERTaABSA)
+
 
 ### Opinion extraction
 Open-Domain Targeted Sentiment Analysis via Span-Based Extraction and Classification @ACL 2019 [paper](https://aclanthology.org/P19-1051.pdf) [code](https://github.com/huminghao16/SpanABSA)
