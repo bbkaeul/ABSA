@@ -11,18 +11,12 @@
 
 
 # ABSA (Aspect-Based Sentiment Analysis) Paper list
-### Must Reference
-Attention-based LSTM for Aspect-level Sentiment Classification [paper](https://ieeexplore.ieee.org/abstract/document/8976252)
-
-Reference [code](https://github.com/songyouwei/ABSA-PyTorch)
-
 ### Survey
 Issues and Challenges of Aspect-based Sentiment Analysis: A ComprehensiveSurvey [paper](https://ieeexplore.ieee.org/abstract/document/8976252)
 Aspect and Entity Extraction for Opinion Mining [paper](https://www.cs.uic.edu/~lzhang3/paper/ZhangLiu-AEEE.pdf)
 
 
 ### Domain Adaptation (Transfer learning, SNE)
-
 Unified Feature and Instance Based Domain Adaptation for Aspect-Based Sentiment Analysis [paper](https://aclanthology.org/2020.emnlp-main.572.pdf)
 - Feature-based methods learn a domain-invariant representation with autiliary tasks or domain adversarial learning
 - Instance-based methods is to re-weight source instances in order to assign higher weights to instances similar to the target domain and lower weights to instances different from the target domain
@@ -36,6 +30,9 @@ Context-Guided BERT for Targeted Aspect-Based Sentiment Analysis [paper](https:/
 Exploiting BERT for End-to-End Aspect-based Sentiment Analysis @EMNLP 2019 [paper](https://arxiv.org/pdf/1910.00883.pdf) [code](https://github.com/lixin4ever/BERT-E2E-ABSA)
 
 A Unified Generative Framework for Aspect-Based Sentiment Analysis  @ACL 2021 [paper](https://arxiv.org/pdf/2106.04300.pdf) [code](https://github.com/yhcc/BARTABSA)
+
+Attention-based LSTM for Aspect-level Sentiment Classification [paper](https://ieeexplore.ieee.org/abstract/document/8976252)
+
 
 ### Syntax
 Does syntax matter? A strong baseline for Aspect-based Sentiment Analysis with RoBERTa @NAACL 2021 [paper](https://arxiv.org/abs/2104.04986) [code](https://github.com/ROGERDJQ/RoBERTaABSA)
