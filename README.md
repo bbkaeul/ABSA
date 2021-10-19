@@ -9,34 +9,6 @@
 - **[Amazon reviews]** The data span a period of 18 years, including ~35 million reviews up to March 2013. Reviews include product and user information, ratings, and a plaintext review [data](https://snap.stanford.edu/data/web-Amazon.html)
 - **[Amazon product data]** This dataset contains product reviews and metadata from Amazon, including 142.8 million reviews spanning May 1996 - July 2014. This dataset includes reviews (ratings, text, helpfulness votes), product metadata (descriptions, category information, price, brand, and image features), and links (also viewed/also bought graphs). [data](http://jmcauley.ucsd.edu/data/amazon/)
 
-# 
-https://ieeexplore.ieee.org/document/8976252
-https://techscience.com/cmc/v67n2/41318
-https://github.com/YZHANG1270/Aspect-Based-Sentiment-Analysis#absa-book-outline
-https://github.com/songyouwei/ABSA-PyTorch
-https://aclanthology.org/2020.acl-main.339.pdf
-https://arxiv.org/pdf/1911.01616v2.pdf
-https://aclanthology.org/2020.acl-main.293.pdf
-https://aclanthology.org/P19-1056.pdf
-https://aclanthology.org/D19-1467.pdf
-https://aclanthology.org/D19-1342.pdf
-https://paperswithcode.com/paper/does-bert-understand-sentiment-leveraging
-https://www.koreascience.or.kr/article/JAKO202009135419336.pdf
-https://aclanthology.org/2021.acl-long.188.pdf
-https://arxiv.org/pdf/1909.00324.pdf
-https://aclanthology.org/2020.coling-main.70.pdf
-https://aclanthology.org/2020.coling-main.83.pdf
-https://aclanthology.org/N19-1259.pdf
-https://aclanthology.org/2020.coling-main.158.pdf
-https://aclanthology.org/R15-1036.pdf
-https://www.atlantis-press.com/journals/ijcis/125941251/view
-https://aclanthology.org/D18-1401.pdf
-https://aclanthology.org/P19-1345.pdf
-synchronous Double-channel Recurrent Network for Aspect-Opinion Pair Extraction
-
-https://github-dotcom.gateway.web.tr/howardhsu/BERT-for-RRC-ABSA
-https://github.com/prrao87/fine-grained-sentiment
-
 
 # ABSA (Aspect-Based Sentiment Analysis) Paper list
 ### Must Reference
